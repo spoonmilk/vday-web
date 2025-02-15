@@ -23,6 +23,8 @@ const Home: NextPage = () => {
       >
         <Header />
         <PixelArtSection />
+
+        <h2 className="text-2xl font-bold mb-2">I adore you so very much, and I miss SO MUCH!</h2>
       </div>
     </>
   );

@@ -4,7 +4,7 @@
 // components/PixelArtSection.tsx
 import React, { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { poems }  from '../poems.ts'
+import { poems }  from '../poems'
 
 const PixelArtSection: React.FC = () => {
 
